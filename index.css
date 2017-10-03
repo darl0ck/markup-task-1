@@ -1,0 +1,30 @@
+body
+{
+    background-color: #ffdead;
+}
+
+span
+{
+    color: #8b0000;
+    font-weight: bold;
+}
+
+abbr,
+dfn,
+.strong
+{
+    font-weight: bold;
+}
+
+header > h1,
+.center_head,
+.center_div
+{
+    text-align: center;
+}
+
+main
+{
+    text-align: left;
+}
+
